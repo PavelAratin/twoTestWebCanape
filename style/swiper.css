@@ -1,0 +1,19 @@
+
+
+.slider-container {
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+}
+
+.slider-container:not(:last-child) {
+    margin-bottom: 70px;
+
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: auto;
+}
+
+

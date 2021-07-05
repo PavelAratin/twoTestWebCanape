@@ -1,0 +1,16 @@
+.form-tablet-owerlay {
+    background-image: url('../img/formtabletbg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 56px 0;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    display: none;
+}
+.form-tablet {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
